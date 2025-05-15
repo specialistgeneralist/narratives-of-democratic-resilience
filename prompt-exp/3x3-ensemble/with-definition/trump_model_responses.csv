@@ -1,0 +1,14 @@
+model,response,justification
+Claude 3.7 Sonnet (LLM),Strong yes,"** - Clear elite-people opposition with moral undertones.
+
+The text exhibits all five dimensions of populist narrative, presenting a stark division between corrupt elites and victimized ordinary people in a morally charged framing."
+Claude 3.5 Sonnet (New),strong yes,*Clear elite-people divide with moral overtones and collective victimhood.*
+GPT-4.1,weak yes,Anti-elitism present; other dimensions only weakly implied.
+GPT-4o,Weak yes,** Exhibits anti-elitism and people-centrism elements.
+o3 (High),weak no,— Anti-elitist statement lacks other populist dimensions.
+Gemini 2.5 Flash (High),strong yes,Text exhibits all five dimensions of the populist framework.
+Gemini 2.5 Flash (LLM),strong yes,The text strongly aligns with all five dimensions of the framework.
+Claude 3.7 Sonnet (High),weak yes,"Contains anti-elite rhetoric and portrays unified people versus exploitative elites.<anthropic-signature>ErUBCkYIAxgCIkAo01xZnw6jhqvfp3hC14oVCjjYcNhDhnmIDJs/TsFxE7dsQT6n3T5PTkUYulqQbTLX1tC0+RHFzo3MSQRmh/uVEgwGyXmI2tZJCXuwd6UaDB7lMrRJAFm7/nfmWSIwRBFzd1eZjMqYY5nEnKdxCDFouvajPH0FRqxddb8b1uuDZlsoUJsPYgMI09+07S0zKh0b0oOlQ6cXdtJVVnrDvu9fUX8mSUabo/GNFncaORgC</anthropic-signature>
+</anthropic-thought>
+# Analysis of Populist Narrative"
+Gemini 2.0 Flash,weak yes,Exhibits anti-elitism and a potential Manichean worldview.

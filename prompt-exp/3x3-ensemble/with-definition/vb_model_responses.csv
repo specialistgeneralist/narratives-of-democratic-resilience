@@ -1,0 +1,14 @@
+model,response,justification
+Claude 3.7 Sonnet (LLM),weak no,"** - Anti-elitism present but missing other key populist dimensions.
+
+The text exhibits strong anti-elitism but lacks explicit references to ""the people,"" their homogeneity, general will, or exclusive sovereignty. While it positions the party against the establishment, it doesn't fulfill all five dimensions required for a complete populist narrative."
+Claude 3.5 Sonnet (New),weak yes,Strong anti-elite rhetoric but lacks clear people-centric elements.
+GPT-4.1,weak no,"Anti-elitism present, but lacks other populist dimensions."
+GPT-4o,Weak yes,** Anti-elitism and people-centrism are evident.
+o3 (High),strong no,— Only anti-elite language; no unified people or general will.
+Gemini 2.5 Flash (High),strong no,". Lacks explicit indivisible people, general will, and people-centrism."
+Gemini 2.5 Flash (LLM),weak yes,The text shows anti-elitism and a hint of people-centrism.
+Claude 3.7 Sonnet (High),weak yes,"""Only demonstrates anti-elitism, missing other required populist dimensions.""<anthropic-signature>ErUBCkYIAxgCIkA2eqfHTxZRxce5m7x6/WZi8DAyA+1gzGVFgiat/1iLBr3wK4z8eavGqNA2Usj/i5EDBRQ6OYAv2pjas/I2rHlDEgyKwGX2STXlsv1P4QoaDAu5pywX+VobeHXqBiIwxnzAG8LCUMoN+9ADO2zdcHwcCjK/RML+xJMzxdAQXoNbAt1nMtcjuZkXayGVg+J8Kh1cPwSHXRE2gmH5n93M/Uz1gJPGQEL44OKowOr6pRgC</anthropic-signature>
+</anthropic-thought>
+# Analysis of Populist Narrative"
+Gemini 2.0 Flash,strong yes,"Anti-establishment, anti-elite sentiment is very strong."

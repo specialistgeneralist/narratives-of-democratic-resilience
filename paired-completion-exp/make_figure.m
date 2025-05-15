@@ -1,0 +1,1 @@
+analyse_speakers('llama-2-70b-asylum-seekers-v2_speaker_affil.json', 'group_by_speaker_dynamic', true, 'show_error_bars', true, 'set_min_entries', 3)

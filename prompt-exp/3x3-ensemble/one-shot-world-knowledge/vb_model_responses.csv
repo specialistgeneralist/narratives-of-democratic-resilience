@@ -1,0 +1,25 @@
+model,response,justification
+Claude 3.7 Sonnet (LLM),strong yes,"**
+
+**Justification**: Anti-establishment rhetoric dividing ""us"" versus elite ""salons""
+
+The text contains clear populist elements including:
+1. Explicit anti-establishment positioning (""We do not want to be part of the establishment"")
+2. Portrayal of an ""us versus them"" dynamic between the VB party and the ""Belgian salons""
+3. Self-identification as a ""maverick"" outsider in politics
+4. Claim of being excluded by elites (""not welcome in the Belgian salons"")
+5. Stated desire to dismantle existing power structures (""abolish these salons"")
+
+These are hallmark characteristics of populist rhetoric, which typically frames politics as a struggle between ordinary people and corrupt elites or establishments."
+Claude 3.5 Sonnet (New),strong yes,"Anti-elite rhetoric, outsider stance, and direct opposition to establishment institutions."
+GPT-4.1,strong yes,"Opposes establishment, claims outsider status, uses anti-elite rhetoric."
+GPT-4o,weak yes,** Anti-establishment sentiment and outsider positioning evident.
+o3 (High),strong yes,"Explicit anti-establishment stance, elite “salons” versus outsider people."
+Gemini 2.5 Flash (High),strong yes,"Clearly positions party against establishment, wants to abolish ""salons""."
+Gemini 2.5 Flash (LLM),strong yes,"Focus on ""establishment"" and ""salons"" versus ""principled programme party""."
+Claude 3.7 Sonnet (High),strong yes,""" with a brief justification that focuses on the clear anti-establishment stance and the ""us vs. them"" framing that is central to populist rhetoric.<anthropic-signature>ErUBCkYIAxgCIkCkqilD9jllLdaaODwBw4Ll7dMkn7gyKO03P++5d0dBomI5Ya5DEEOadf61gwx8bLpxwf99eRkcy4RIrCakh+nrEgzosMspYwbT+65GfCQaDOmj0YMz6tONCcR2/yIwiDhiEVgLO1phm2NsXqqV1zi+eDKpDIMHee3UOF7Lm4aur3lqbZQUpjXjjIk7pLkBKh379byF4f+xQFMpRjAPw3LbrUcm3cHablPwrM6hpRgC</anthropic-signature>
+</anthropic-thought>
+# Strong yes
+
+Clear anti-establishment rhetoric and elite-versus-outsider framing."
+Gemini 2.0 Flash,strong yes,Anti-establishment rhetoric and focus on abolishing the elite.

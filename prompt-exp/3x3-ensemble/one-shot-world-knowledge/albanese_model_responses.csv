@@ -1,0 +1,16 @@
+model,response,justification
+Claude 3.7 Sonnet (LLM),weak yes,"** - Appeals to ""the people"" vs. untrustworthy government elites.
+
+The text shows some populist elements by positioning itself against an establishment portrayed as corrupt and disconnected from ordinary citizens. It creates a division between ""Australians"" (the people) and the current government that allegedly misuses public funds and avoids responsibility. The promise to ""restore trust"" implies the current system is broken and needs fixing, which aligns with populist rhetoric. However, it lacks stronger populist markers like explicit anti-elite language or claims about a ""pure people"" being victimized, hence the ""weak yes"" rating."
+Claude 3.5 Sonnet (New),strong yes,"**Justification**: Contrasts virtuous people against corrupt elite, promises restoration of power/accountability.
+
+The text exhibits classic populist elements by creating a moral division between ""Australians"" (the people) and the current government (portrayed as corrupt elites), while positioning Labor as the champion of the people who will restore accountability through institutional reform <cite citationKey=""mudde2004populist"" name=""The Populist Zeitgeist"" authors=""Cas Mudde"" year=""2004"" />."
+GPT-4.1,weak yes,"Criticizes elites, promises to restore power to people."
+GPT-4o,weak yes,"** Criticizes elites, promises systemic change."
+o3 (High),weak yes,"— Condemns corrupt governing elite, pledges restored accountability"
+Gemini 2.5 Flash (High),strong yes,"Strong anti-elite rhetoric and appeal to ""Australians"" against the establishment."
+Gemini 2.5 Flash (LLM),weak yes,".
+
+Focuses on ""the people"" vs. ""the elite"" (Liberals/Nationals)."
+Claude 3.7 Sonnet (High),weak yes,criticizes government corruption but uses standard political rhetoric.<anthropic-signature>ErUBCkYIAxgCIkAgSlmFEjjnShi9MKViwwykOs/NZ09JRbtAp1HR5dDzDS5XqqZS7Zkn9r4NNbXOcrBqbuW7t82RhB28bBAeuGI8EgyBrNMIJv6OV7LTLJsaDAVB8WZJ/aZxeqX/qyIwRvcj/e3yDmEAR2UuW//slYTVX+ktr/eVXbyhRu+GcvKlDHwIujCSlVx6kVXaUfIGKh0DW1lV0+Qoj5VxqYK4kjsWPOfX5ln65o+q1a/GiRgC</anthropic-signature>
+Gemini 2.0 Flash,Weak yes,. Appeals to the common person against perceived elite inaction.

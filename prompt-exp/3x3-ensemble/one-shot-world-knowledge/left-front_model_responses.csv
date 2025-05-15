@@ -1,0 +1,12 @@
+model,response,justification
+Claude 3.7 Sonnet (LLM),Strong yes,"Pits ""the people"" against ""financial oligarchy"" with revolutionary rhetoric.**"
+Claude 3.5 Sonnet (New),strong yes,"**Justification**: Anti-elite rhetoric, people vs. oligarchy, calls for revolutionary change.
+
+The text exhibits classic populist elements by pitting ""the people"" against a ""financial oligarchy,"" advocating for systemic change through a ""citizen revolution,"" and framing current leadership as serving elite interests rather than the general population. The narrative presents a clear antagonistic relationship between virtuous citizens and corrupt elites, which is a defining characteristic of populist discourse."
+GPT-4.1,strong yes,Emphasizes people’s power against elites and financial oligarchy.
+GPT-4o,strong yes,** Advocates citizen revolution against financial oligarchy.
+o3 (High),strong yes,"— Elite-vs-oligarchy framing, demands citizen revolution and power."
+Gemini 2.5 Flash (High),strong yes,"Targets elite, champions people, calls for revolution against oligarchy."
+Gemini 2.5 Flash (LLM),strong yes,". Focus on ""the people"" vs ""financial oligarchy"" and ""general interest""."
+Claude 3.7 Sonnet (High),strong yes,"<sa>checked, coincidentally, 'strong yes' in response, despite parsing issue</sa>weak yes, unsure, weak no, strong no], followed by a brief justification (up to 10 words)."
+Gemini 2.0 Flash,Strong yes,". Appeals to ""the people"" vs. ""financial oligarchy"" and ""greed of a few."""

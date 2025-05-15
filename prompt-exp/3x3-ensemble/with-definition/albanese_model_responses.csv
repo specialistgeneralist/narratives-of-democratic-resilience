@@ -1,0 +1,14 @@
+model,response,justification
+Claude 3.7 Sonnet (LLM),Weak no,"** - Criticizes opponents without fully embracing populist framework.
+
+The text contains some populist elements (particularly anti-incumbent sentiment and promises of accountability) but doesn't fulfill all five dimensions of the populist framework. It's more aligned with standard political opposition messaging than a comprehensive populist narrative."
+Claude 3.5 Sonnet (New),weak yes,"Anti-elite rhetoric present, but lacks strong people-centric unified narrative."
+GPT-4.1,weak no,"Criticizes elites, but lacks clear populist people-centrism."
+GPT-4o,weak yes,"** Criticizes elites, lacks clear people-centrism and indivisibility."
+o3 (High),weak no,— lacks homogenous people and singular general will references
+Gemini 2.5 Flash (High),weak no,Fails to explicitly state people should have exclusive sovereignty/final say.
+Gemini 2.5 Flash (LLM),weak yes,"Exhibits elements of anti-elitism and people-centrism, but lacks strong Manichean framing."
+Claude 3.7 Sonnet (High),weak no,"Standard campaign critique lacking strong people-elite dichotomy.<anthropic-signature>ErUBCkYIAxgCIkDm/4VHiTbQsaLZOmh04KFnMpxTrTjv4kgMV75CPK/t44B9LfkjPWxZK3XwQKs/9MXtPMEvCVPu56hoEmcPg5SMEgyY9fkBXBUiFa4Rx3EaDKwVVvfutpLx6fuswSIw/SvL+Y7pM5sAm0UxdNuVjNlDcYonQTyqaI60wI+ZR4Vu0UxM/0Yw7/IRJyviz0vNKh0rVqY0kUIkqCcXoe8ScB6FGbyCNu6R/XRFMSG9iRgC</anthropic-signature>
+</anthropic-thought>
+# Does the TEXT exhibit a populist narrative?"
+Gemini 2.0 Flash,weak yes,"Hints of anti-elitism and people-centrism, but lacks other dimensions."

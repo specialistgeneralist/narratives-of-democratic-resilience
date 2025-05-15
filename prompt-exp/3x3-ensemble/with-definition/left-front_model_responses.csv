@@ -1,0 +1,10 @@
+model,response,justification
+Claude 3.7 Sonnet (LLM),Strong yes,** - Contains all five populist dimensions with clear anti-elite rhetoric.
+Claude 3.5 Sonnet (New),strong yes,Text explicitly opposes elites while advocating unified people's power.
+GPT-4.1,strong yes,"Moral struggle, homogenous people, general will, people-centrism, anti-elitism."
+GPT-4o,weak yes,"** Emphasizes anti-elitism and people-centrism, lacks full homogeneity."
+o3 (High),strong yes,— Unified people vs greedy oligarchs; demands exclusive popular power
+Gemini 2.5 Flash (High),strong yes,"Exhibits all five dimensions: moral struggle, homogenous people, general will, people's sovereignty, anti-elite."
+Gemini 2.5 Flash (LLM),strong yes,The text strongly aligns with all five dimensions of the populist framework.
+Claude 3.7 Sonnet (High),strong yes,"** Text pits unified people against financial oligarchy, demanding sovereign power."
+Gemini 2.0 Flash,strong yes,"Exhibits all five dimensions of populism: Manichean, indivisible people, etc."

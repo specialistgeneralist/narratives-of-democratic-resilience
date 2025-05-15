@@ -1,0 +1,18 @@
+model,response,justification
+Claude 3.7 Sonnet (LLM),Strong yes,"** Directly contrasts ""small group"" elites against ""the people"" being exploited."
+Claude 3.5 Sonnet (New),strong yes,"**Justification**: Clear elite-people divide, corrupt establishment versus suffering masses narrative.
+
+The text exhibits classic populist rhetoric by constructing an antagonistic relationship between ""a small group"" (the elite/establishment) and ""the people,"" while implying unjust enrichment of the former at the expense of the latter. This is a fundamental characteristic of populist discourse."
+GPT-4.1,strong yes,"Contrasts elite group with ""the people"" suffering costs."
+GPT-4o,strong yes,** Criticizes elite benefiting over common people.
+o3 (High),strong yes,"— Elite criticized, people exploited: clear populist framing"
+Gemini 2.5 Flash (High),strong yes,Clearly pits 'the people' against a self-serving elite.
+Gemini 2.5 Flash (LLM),strong yes,"Focus on ""small group"" vs ""the people"" and ""reaped rewards"" vs ""borne the cost""."
+Claude 3.7 Sonnet (High),strong yes,""" for populist narrative. It contains the core elements of populist rhetoric in a very clear and direct way.
+
+My justification in brief (up to 10 words) would be: ""Explicitly pits elite minority against ordinary people.""<anthropic-signature>ErUBCkYIAxgCIkBoAFCCXs7TixiVSebMofkLutmGRziKBnPjPt/z9Z3QxFdN0g06fwLttUTy6Gr1N4nBEJBwhCU29P6Rucm62solEgyjryyK07U7gnsqJ3MaDL7awJGFtImJ/i6TDyIw1hh6XTPTVqRbvHIsGUMJDkACj0iZ+ZlpXn4CtK3fHHffqSPbZG6SHnqfhEzPqX2sKh0envqzazdshhbSzi7VT7MU1oqTxIOLEGKgHqBjxRgC</anthropic-signature>
+</anthropic-thought>
+# Strong yes
+
+Explicitly pits elite minority against ordinary people."
+Gemini 2.0 Flash,Strong yes,". It pits ""the people"" against a privileged ""small group."""
