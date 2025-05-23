@@ -1,5 +1,7 @@
 # Data & Codes to accompany: "Tracking Policy-relevant Narratives of Democratic Resilience at Scale: from experts and machines, to AI & the transformer revolution"
 
+[![DOI](https://zenodo.org/badge/983829238.svg)](https://doi.org/10.5281/zenodo.15493085)
+
 [Simon D. Angus](https://research.monash.edu/en/persons/simon-angus)
 
 Dept. of Economics & [SoDa Laboratories](sodalabs.io), Monash Business Schoool, Monash University
